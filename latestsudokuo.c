@@ -1,12 +1,4 @@
-/*SUDOKU SOLVER
 
-Preeti U Murthy	08IT95
-Shalini Priya	08IT01
-Anusha K	08IT12
-Meenal Dongle	08IT37
-Meghana G	08IT38
-
-*/
 
 // SUDOKU SOLVER
 
